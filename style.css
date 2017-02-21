@@ -50,7 +50,7 @@ body{
 
 
 
-@media only screen and (max-device-width: 500px){
+/*@media only screen and (max-device-width: 500px){
 
 	body{
 		background-image: url(img/jaguar-xe-responsive.jpg);
@@ -74,4 +74,4 @@ body{
 	top: -80px;
 	left: 50px;
 }
-}
+}*/

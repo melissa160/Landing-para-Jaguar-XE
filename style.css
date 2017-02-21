@@ -51,6 +51,15 @@ body{
 
 
 @media only screen and (max-device-width: 500px){
+
+	body{
+		background-image: url(img/jaguar-xe-responsive.jpg);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+
 	.ad{
 		margin: 60px;
 	}

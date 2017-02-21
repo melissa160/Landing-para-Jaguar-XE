@@ -48,30 +48,3 @@ body{
 	font-size: 14px;
 }
 
-
-
-/*@media only screen and (max-device-width: 500px){
-
-	body{
-		background-image: url(img/jaguar-xe-responsive.jpg);
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		background-size: contain;
-	}
-
-	.ad{
-		margin: 60px;
-	}
-	.ad .information{
-		font-size: 40px;
-		padding: 50px;
-		padding-bottom: 80px;
-	}
-
-	.ad .button{
-	font-size: 35px;
-	top: -80px;
-	left: 50px;
-}
-}*/

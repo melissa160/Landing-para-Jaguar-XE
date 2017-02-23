@@ -1,50 +1,49 @@
 
 body{
-	background-image: url(img/jaguar-xe.jpg);
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
+  background-image: url(img/jaguar-xe.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .ad{
-	position: absolute;
-	top: 0;
-	left: auto;
-	max-width: 600px;
-	width:  auto;
-	margin: 30px;
+  position: absolute;
+  top: 0;
+  left: auto;
+  max-width: 600px;
+  width:  auto;
+  margin: 30px;
 
 }
 
 .ad .information{
 
-	font-family: 'Roboto', sans-serif;
-	background-color: black;
-	opacity: 0.7;
-	color:white;
-	border-radius: 8px;
-	padding: 25px;
-	padding-bottom: 50px;
-
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+  opacity: 0.7;
+  color:white;
+  border-radius: 8px;
+  padding: 25px;
+  padding-bottom: 50px;
 }
 
 .ad .information h1{
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .ad .button{
-	background: #DB3030;
-	color: white;
-	cursor: pointer;
-	border-width: 0;
-	padding: 10px 20px;
-	position: relative;
-	top: -50px;
-	left: 25px;
-	font-family: 'Roboto', sans-serif;
-	text-decoration: none;
-	font-size: 14px;
+  background: #DB3030;
+  color: white;
+  cursor: pointer;
+  border-width: 0;
+  padding: 10px 20px;
+  position: relative;
+  top: -50px;
+  left: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  font-size: 14px;
 }
 
